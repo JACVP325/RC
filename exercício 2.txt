@@ -1,3 +1,3 @@
 1-Lan porque a distancia entre os edeficios não ultrapassa os 2 km  
-2-Lan porque é uma empresoura via wi-fi por isso tem de ser mais de 10 M
+2-Pan ou Lan porque depende da distancia
 3-fibra otica porque é a mais estavel e segura
