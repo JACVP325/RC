@@ -1,8 +1,0 @@
-1-Lan porque a distancia entre os edeficios não ultrapassa os 2 km  
-2-Pan ou Lan porque depende da distancia
-3-fibra otica porque é a mais estavel e segura
-
-correção
-1-can
-2-lan e/ou can
-3-Fibra otica e/ou cabo Ethernet
