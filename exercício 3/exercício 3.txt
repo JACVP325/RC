@@ -1,0 +1,11 @@
+1-lan porque são muitos computadores para ser pan
+2-wan porque a empresa está no porto
+3-pan porque o bluetooth é uma rede de comunicação de curto alcanse
+4-wan porque as instalações podem estar no mundo todo
+
+correção
+
+1-lan
+2-wan
+3-pan
+4-man
