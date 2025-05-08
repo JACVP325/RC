@@ -7,3 +7,13 @@ A
 B- É fibra monomodo porque tem o limete de até 5km.
 
 C- O Cabo mais indicado é o CAT6 porque funciona com um limite de distância de 55m
+
+correção
+1- cat6a
+2- fibra monomodo
+3- cat6
+4- fibra monomodo
+
+b- É fibra monomodo porque tem o limete de até 200 M sem repetidores e baixa latencia
+
+c- cat 6
