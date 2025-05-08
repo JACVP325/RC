@@ -15,3 +15,23 @@ ter uma palavra passe diferente
 
 d
 ter uma rede para visitantes e ocultar o ssid
+
+correção
+
+a
+2.4 GHz - todos os dispositivos por causa dos telemoveis
+5 GHz - todos os dispositivos por causa dos portateis
+
+b
+802.11ax
+
+c
+vantagens:
+mais segurança
+menos probabilidade de ser envadido
+
+desvantagens:
+ter uma palavra passe diferente
+
+d
+ter uma rede para visitantes e ocultar o ssid
