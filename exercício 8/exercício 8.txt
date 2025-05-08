@@ -1,8 +1,9 @@
 a
-5 GHz para todos os dispositivos porque são muitos dispositivos para se ligar a rede de 2,4 GHz
+2.4 GHz para os smartphones, portateis e os ioT porque 2,4 GHz vai mais longe na casa do que o 5 GHz
+5 GHz para o streaming e para os televisores smart porque 5 GHz tem mais qualidade para esses dispositivos
 
 b
-wi-fi 5 porque é uma casa grande e o wi-fi 6 ou 7 são mais para pequenas areas
+802.11ax(wi-fi 6) porque é o padrão mais recente com 2.4 GHz e 5 GHz
 
 c
 vantagens:
