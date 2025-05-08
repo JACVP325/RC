@@ -1,0 +1,16 @@
+a
+5 GHz para todos os dispositivos porque são muitos dispositivos para se ligar a rede de 2,4 GHz
+
+b
+wi-fi 5 porque é uma casa grande e o wi-fi 6 ou 7 são mais para pequenas areas
+
+c
+vantagens:
+mais segurança
+menos probabilidade de ser envadido
+
+desvantagens:
+ter uma palavra passe diferente
+
+d
+ter uma rede para visitantes e ocultar o ssid
