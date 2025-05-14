@@ -1,0 +1,14 @@
+a- switch
+b- switch
+c- router
+d- router
+e- 
+bridge
+1
+
+switch
+2
+
+router 
+3
+
