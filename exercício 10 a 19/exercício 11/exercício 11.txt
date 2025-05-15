@@ -12,3 +12,18 @@ switch
 router 
 3
 
+correção
+
+a- switch, Bridge
+b- switch, Bridge
+c- router
+d- router
+e- 
+bridge
+2
+
+switch
+2
+
+router 
+3
