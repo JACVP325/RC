@@ -1,5 +1,8 @@
-1-Camada de Aplicação:
-É a camada mais alta e interage diretamente com as aplicações que os utilizadores usam, como navegadores web, correio eletrónico ou programas de transferência de ficheiros.
-2-
-3-
-4-
+1-Camada de Aplicação
+1- É a camada mais alta e interage diretamente com as aplicações que os utilizadores usam, como navegadores web, correio eletrónico ou programas de transferência de ficheiros.
+2-Camada de Transporte
+1-Responsável pela entrega confiável e organizada dos dados entre aplicações, utilizando protocolos como TCP e UDP.
+3-Camada de Internet (Rede)
+1-Encargada de encaminhar os dados através da internet ou de uma rede, utilizando endereços IP.
+4-Camada de Interface de Rede (Enlace de Dados)
+1-Responsável pela comunicação física entre dispositivos, utilizando protocolos de rede, como Ethernet ou Wi-Fi.
