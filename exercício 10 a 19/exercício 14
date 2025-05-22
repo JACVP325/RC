@@ -1,8 +1,16 @@
-1-Camada de Aplicação
+1-Camada de Interface de Rede (Enlace de Dados)
+1- Responsável pela comunicação física entre dispositivos, utilizando protocolos de rede, como Ethernet ou Wi-Fi.
+2- Protocolos que controlam a comunicação com a rede física (ex: Ethernet, Wi-Fi).
+3- A PDU nesta camada é um quadro de dados. O tipo de quadro de dados depende do tipo de rede física utilizada, como quadros Ethernet (para redes Ethernet) ou quadros Wi-Fi (para redes sem fio). Esses quadros incluem informações sobre o endereço físico da rede (MAC) e os dados a serem transmitidos.
+2-Camada de Internet (Rede)
+1- Encargada de encaminhar os dados através da internet ou de uma rede, utilizando endereços IP.
+2- Protocolos que definem o endereçamento e o roteamento de dados na rede.
+3- A PDU nesta camada é um pacote IP. O IP é o protocolo principal para endereçamento e encaminhamento de dados através da rede. Cada pacote IP contém informações sobre o endereço de origem e destino, além dos dados a serem entregues. 
+3-Camada de Transporte
+1- Responsável pela entrega confiável e organizada dos dados entre aplicações, utilizando protocolos como TCP e UDP.
+2- Protocolos que gerenciam a entrega dos dados (ex: TCP para entrega confiável, UDP para entrega mais rápida).
+3- A PDU nesta camada é um segmento TCP ou um datagrama UDP. O TCP é um protocolo de transporte orientado à conexão e garante a ordem e a entrega confiável dos dados. O UDP é um protocolo de transporte sem conexão e oferece transmissão mais rápida, mas sem garantias de entrega ou ordem. 
+4-Camada de Aplicação
 1- É a camada mais alta e interage diretamente com as aplicações que os utilizadores usam, como navegadores web, correio eletrónico ou programas de transferência de ficheiros.
-2-Camada de Transporte
-1-Responsável pela entrega confiável e organizada dos dados entre aplicações, utilizando protocolos como TCP e UDP.
-3-Camada de Internet (Rede)
-1-Encargada de encaminhar os dados através da internet ou de uma rede, utilizando endereços IP.
-4-Camada de Interface de Rede (Enlace de Dados)
-1-Responsável pela comunicação física entre dispositivos, utilizando protocolos de rede, como Ethernet ou Wi-Fi.
+2- Protocolos que interagem diretamente com as aplicações (ex: navegador web, cliente de e-mail).
+3-Nesta camada, a PDU é a aplicação, que contém os dados específicos da aplicação que está a ser utilizada. Exemplos incluem dados de páginas web (HTML, CSS, JavaScript), dados de e-mails (SMTP), ou dados de um protocolo de transferência de ficheiros (FTP).  
