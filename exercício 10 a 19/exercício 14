@@ -14,3 +14,17 @@
 1- É a camada mais alta e interage diretamente com as aplicações que os utilizadores usam, como navegadores web, correio eletrónico ou programas de transferência de ficheiros.
 2- Protocolos que interagem diretamente com as aplicações (ex: navegador web, cliente de e-mail).
 3-Nesta camada, a PDU é a aplicação, que contém os dados específicos da aplicação que está a ser utilizada. Exemplos incluem dados de páginas web (HTML, CSS, JavaScript), dados de e-mails (SMTP), ou dados de um protocolo de transferência de ficheiros (FTP).  
+
+
+
+
+
+
+
+
+
+  camada de modelo TPC/IP      |    função na comunicação entre a ana e a maria    |              protocolo(s) possivel(is)            |                 unidade de informação             |
+    aplicação                  |     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|
+    transporte                 |     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|
+    internet                   |     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|
+    acesso a rede              |     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|     djnmiandiddnhnadnuidnhuahndunhdnhuaindunjudnnd|
