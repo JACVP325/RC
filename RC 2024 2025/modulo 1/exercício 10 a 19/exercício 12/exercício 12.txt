@@ -1,0 +1,39 @@
+a
+gateway
+  S  trabalha com protocolos diferentes
+router
+  S  trabalha com protocolos iguais
+  
+b
+gateway
+  S
+router
+  N
+  
+c
+gateway
+  S
+router
+  S
+
+correção
+
+a
+gateway
+  S  trabalha com protocolos diferentes e/ou iguais
+router
+  S  trabalha com protocolos com o mesmo ip
+  
+b
+gateway
+  S
+router
+  N
+  
+c
+gateway
+  S
+router
+  S
+
+fiz com o ricardo
