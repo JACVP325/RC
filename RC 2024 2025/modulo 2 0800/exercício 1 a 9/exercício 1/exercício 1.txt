@@ -1,7 +1,7 @@
 1- indica três funções do sistema operativo de rede local (SON) que estão claramente presentes neste cénario. justifica cada uma
 R: logistica porque há um sistema de registo de eventos.
    segurança porque a contas para cada funcionario.
-   permições porque oserviço de autentificação.
+   permições porque a serviço de autentificação.
 2- se um funcionário da produção tentar aceder à pasta do derpartamento do RH, o que deve acontecer? porque?
 R: não vai conseguir porque uma pessoa na produção não pode aceder ao departamento do RH por qualsa das permições e da localização na rede
 3- qual a função do sistema operativo ao obrigar os utilizadores a efetuarem login com credenciais proprias?
