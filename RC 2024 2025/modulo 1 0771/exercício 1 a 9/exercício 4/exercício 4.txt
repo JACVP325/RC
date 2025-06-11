@@ -1,0 +1,8 @@
+1- Barramento porque a informação passa por todos os computadores mas só o destinatário consegue ler.
+2- Árvore porque existe um switch central que envia a informação para todos os switches secundários.
+3- Anel porque a informação é lida por todos os computadores até chegar ao destino.
+
+correção
+1- barramento
+2- estrela
+3- anel

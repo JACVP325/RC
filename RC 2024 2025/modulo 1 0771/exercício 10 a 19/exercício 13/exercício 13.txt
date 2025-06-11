@@ -1,0 +1,28 @@
+1-fisica
+1- Responsável pela transmissão física dos dados, como cabos e sinais elétricos.
+2- Danos em cabos, conectores defeituosos, problemas com o meio de transmissão (fibra óptica, ondas de rádio). 
+3- Inspeção visual dos cabos e conectores
+2-ligação de dados
+1- Lida com a transmissão de dados entre dispositivos na mesma rede, utilizando protocolos como Ethernet e Wi-Fi.
+2- Endereços MAC duplicados, problemas de controle de fluxo, erros de transmissão (bit errors). 
+3- Verificação da tabela MAC em switches
+3-rede
+1- Responsável pela definição de endereços e roteamento de pacotes de dados através de diferentes redes, como o protocolo IP.
+2- Problemas de endereçamento IP, máscaras de rede incorretas, problemas de roteamento, congestionamento de rede.
+3- Verificação da configuração IP
+4-transporte
+1- Garante a entrega confiável e ordenada de dados entre os programas de aplicação, utilizando protocolos como TCP e UDP.
+2- Problemas com o protocolo TCP (controle de fluxo, retransmissão), problemas com o protocolo UDP (perda de pacotes).
+3- Verificação da configuração TCP/IP
+5-sessão
+1- Estabelece, gerencia e termina as sessões de comunicação entre os programas de aplicação.
+2- Problemas com o estabelecimento, manutenção e término de sessões, problemas com o controle de diálogos e sincronização.
+3- Verificação da configuração da sessão
+6-apresentação
+1- Formata e traduz dados para que sejam compreendidos pelos programas de aplicação.
+2- Problemas com a conversão de dados, problemas com a criptografia e compressão.
+3- Verificação da compatibilidade de formatos
+7-aplicação
+1- Interage diretamente com as aplicações, fornecendo serviços como acesso a web e e-mail. 
+2- Problemas com os aplicativos que acessam a rede (e.g., navegador, servidor de e-mail), problemas com a segurança dos dados.
+3- Verificação da configuração do aplicativo
